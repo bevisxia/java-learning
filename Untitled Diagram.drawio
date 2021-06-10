@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T07:58:21.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5UPWKeK9huHgUJzAvvi4" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T08:00:08.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="yZiDoF4jRNXAFCMXz9xj" version="14.7.1" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2783.5" dy="1929.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -38,8 +38,15 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Y2pc2dYTrAK3fUMJ317-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0Y2pc2dYTrAK3fUMJ317-69" target="0Y2pc2dYTrAK3fUMJ317-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0Y2pc2dYTrAK3fUMJ317-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="750" as="sourcePoint" />
+            <mxPoint x="210" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="770" />
+              <mxPoint x="210" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0Y2pc2dYTrAK3fUMJ317-104" value="亮宅系统，工程部经理或店面经理，多了一个项目群聊" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0Y2pc2dYTrAK3fUMJ317-103" vertex="1" connectable="0">
           <mxGeometry x="-0.3176" y="-1" relative="1" as="geometry">
