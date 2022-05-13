@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T16:20:24.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="-EF7AnCnCXEWPGXQYqrU" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T02:07:03.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="76C2TduQz0aFszU0xqTi" version="18.0.3" type="github">
   <diagram id="O9gMi_NTs04NcxgNP2FB" name="Page-1">
-    <mxGraphModel dx="879" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1839" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7oV9sslifIrVKHSfEK3D-98" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#3399FF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="945" width="832.5" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-90" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#3399FF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="460" width="832.5" height="460" as="geometry" />
+        </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="10" width="350" height="90" as="geometry" />
         </mxCell>
@@ -12,8 +18,9 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="7oV9sslifIrVKHSfEK3D-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="910" as="sourcePoint" />
+            <mxPoint x="480" y="1540" as="sourcePoint" />
             <mxPoint x="310" y="90" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-34" value="&lt;font color=&quot;#000000&quot;&gt;listen for chirp&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-4">
@@ -26,7 +33,7 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="7oV9sslifIrVKHSfEK3D-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="910" as="sourcePoint" />
+            <mxPoint x="700" y="1540" as="sourcePoint" />
             <mxPoint x="760" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -58,7 +65,7 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="1" target="7oV9sslifIrVKHSfEK3D-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="910" as="sourcePoint" />
+            <mxPoint x="580" y="1540" as="sourcePoint" />
             <mxPoint x="410" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -290,8 +297,8 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-63" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3399FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="490" as="sourcePoint" />
-            <mxPoint x="700" y="490" as="targetPoint" />
+            <mxPoint x="177" y="550" as="sourcePoint" />
+            <mxPoint x="700" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-64" value="DPP Configuration request (device name, WiFi-tech, netrole)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-63">
@@ -301,8 +308,8 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-65" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="699" y="520" as="sourcePoint" />
-            <mxPoint x="180" y="520" as="targetPoint" />
+            <mxPoint x="700" y="580" as="sourcePoint" />
+            <mxPoint x="177" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-66" value="&lt;font color=&quot;#3399ff&quot;&gt;DPP Configuration response(Config JSON Objects for 1905 )&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-65">
@@ -311,12 +318,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-67" value="Apply DPP config for 1905" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="7.5" y="540" width="170" height="10" as="geometry" />
+          <mxGeometry x="4.5" y="600" width="170" height="10" as="geometry" />
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-69" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3399FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="550" as="sourcePoint" />
-            <mxPoint x="700" y="550" as="targetPoint" />
+            <mxPoint x="177" y="610" as="sourcePoint" />
+            <mxPoint x="700" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-70" value="DPP Configuration result" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-69">
@@ -325,27 +332,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-71" value="&lt;font color=&quot;#000000&quot;&gt;1905 Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#3399FF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="180" y="560" width="98" height="40" as="geometry" />
+          <mxGeometry x="177" y="620" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="7oV9sslifIrVKHSfEK3D-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="910" as="sourcePoint" />
+            <mxPoint x="230" y="1540" as="sourcePoint" />
             <mxPoint x="285.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-68" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10099221505554298;endAngle=0.1;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="175" y="540" width="10" height="10" as="geometry" />
+          <mxGeometry x="172" y="600" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="7oV9sslifIrVKHSfEK3D-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="910" as="sourcePoint" />
+            <mxPoint x="180" y="1540" as="sourcePoint" />
             <mxPoint x="180" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-75" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="630" as="sourcePoint" />
-            <mxPoint x="700" y="630" as="targetPoint" />
+            <mxPoint x="227" y="690" as="sourcePoint" />
+            <mxPoint x="700" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-76" value="&lt;font color=&quot;#3399ff&quot;&gt;DPP Peer Discovery request&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-75">
@@ -355,8 +362,8 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-77" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="699" y="660" as="sourcePoint" />
-            <mxPoint x="230" y="660" as="targetPoint" />
+            <mxPoint x="700" y="720" as="sourcePoint" />
+            <mxPoint x="227" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-78" value="&lt;font color=&quot;#3399ff&quot;&gt;DPP Peer Discovery response&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-77">
@@ -365,12 +372,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-79" value="1905 4ways handshake using 1905 Encap msg" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;arrowWidth=0.35;arrowSize=0.05851063829787234;" vertex="1" parent="1">
-          <mxGeometry x="230" y="680" width="470" height="40" as="geometry" />
+          <mxGeometry x="227" y="740" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-80" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="750" as="sourcePoint" />
-            <mxPoint x="700" y="750" as="targetPoint" />
+            <mxPoint x="227" y="810" as="sourcePoint" />
+            <mxPoint x="700" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-81" value="&lt;font color=&quot;#3399ff&quot;&gt;BSS Configuration request（for fBSS&amp;amp;bBSS）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-80">
@@ -380,8 +387,8 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-82" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="699" y="780" as="sourcePoint" />
-            <mxPoint x="230" y="780" as="targetPoint" />
+            <mxPoint x="700" y="840" as="sourcePoint" />
+            <mxPoint x="227" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-83" value="&lt;font color=&quot;#3399ff&quot;&gt;BSS Configuration response（fBSS&amp;amp;bBSS）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-82">
@@ -391,14 +398,220 @@
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-84" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="810" as="sourcePoint" />
-            <mxPoint x="700" y="810" as="targetPoint" />
+            <mxPoint x="227" y="870" as="sourcePoint" />
+            <mxPoint x="697" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7oV9sslifIrVKHSfEK3D-85" value="&lt;font color=&quot;#3399ff&quot;&gt;BSS Configuration result&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-84">
           <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
             <mxPoint x="26" y="-6" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-88" value="DPP config completed" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="7" y="880" width="162.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-89" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10099221505554298;endAngle=0.1;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="167" y="880" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-91" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i&gt;DPP config via Eth&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="7" y="720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-92" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177.5" y="480" as="sourcePoint" />
+            <mxPoint x="697.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-93" value="AP-AutoConfig search (SearchedService=&quot;MAP Controller&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-92">
+          <mxGeometry x="-0.1233" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-94" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698" y="510" as="sourcePoint" />
+            <mxPoint x="175" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-95" value="&lt;font color=&quot;#3399ff&quot;&gt;AP-AutoConfig Response(SupportedService=&quot;MAP R3 Controller&quot;)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-94">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="-77" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-96" value="&lt;b&gt;What Autoconfig for ?&lt;/b&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="510" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-97" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10099221505554298;endAngle=0.1;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-99" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177.5" y="980" as="sourcePoint" />
+            <mxPoint x="700.5" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-100" value="DPP Configuration request (Vendor name wifi, WiFi-tech, netrole)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-99">
+          <mxGeometry x="-0.1233" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-101" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1010" as="sourcePoint" />
+            <mxPoint x="177" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-102" value="&lt;font color=&quot;#3399ff&quot;&gt;DPP Configuration response(Config JSON Objects for 1905，&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;bSTA&lt;/font&gt;&lt;font color=&quot;#3399ff&quot;&gt;)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-101">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="-77" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-103" value="Apply DPP config for 1905" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="1030" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-104" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177.5" y="1040" as="sourcePoint" />
+            <mxPoint x="700.5" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-105" value="DPP Configuration result" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-104">
+          <mxGeometry x="-0.1233" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-106" value="&lt;font color=&quot;#000000&quot;&gt;1905 Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#3399FF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1129" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-107" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10099221505554298;endAngle=0.1;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1030" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-108" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="227" y="1180" as="sourcePoint" />
+            <mxPoint x="700" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-109" value="&lt;font color=&quot;#3399ff&quot;&gt;DPP Peer Discovery request&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-108">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="10" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-110" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1210" as="sourcePoint" />
+            <mxPoint x="227" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-111" value="&lt;font color=&quot;#3399ff&quot;&gt;DPP Peer Discovery response&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-110">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="-105" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-112" value="1905 4ways handshake using 1905 Encap msg" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;arrowWidth=0.35;arrowSize=0.05851063829787234;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1220" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-113" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="1290" as="sourcePoint" />
+            <mxPoint x="702" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-114" value="&lt;font color=&quot;#3399ff&quot;&gt;BSS Configuration request（for fBSS&amp;amp;bBSS）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-113">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="46" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-115" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702" y="1320" as="sourcePoint" />
+            <mxPoint x="229" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-116" value="&lt;font color=&quot;#3399ff&quot;&gt;BSS Configuration response（fBSS&amp;amp;bBSS）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-115">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="-75" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-117" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="232" y="1350" as="sourcePoint" />
+            <mxPoint x="702" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-118" value="&lt;font color=&quot;#3399ff&quot;&gt;BSS Configuration result&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-117">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="26" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-119" value="&lt;font color=&quot;#3399ff&quot;&gt;chirp notification msg(stop cce advertising)&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0091" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1420" as="sourcePoint" />
+            <mxPoint x="479" y="1420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-120" value="&lt;font color=&quot;#3399ff&quot;&gt;chirp notification msg(stop cce advertising)&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="703" y="1450" as="sourcePoint" />
+            <mxPoint x="580" y="1450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-121" value="DPP config completed" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="7" y="1360" width="162.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-122" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10099221505554298;endAngle=0.1;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="167" y="1360" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-123" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i&gt;DPP config via Wi-Fi&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="7" y="1200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-130" value="Apply DPP config for bSTA" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="1040" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-131" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10099221505554298;endAngle=0.1;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1040" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-132" value="&lt;font color=&quot;#000000&quot;&gt;Any exist agent&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#3399FF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="478.5" y="1050" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-133" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FF3333;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="7oV9sslifIrVKHSfEK3D-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1542" as="sourcePoint" />
+            <mxPoint x="570" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-138" value="bSTA connect to bBSS" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;arrowWidth=0.35;arrowSize=0.05851063829787234;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="1040" width="301" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-140" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177.5" y="1120" as="sourcePoint" />
+            <mxPoint x="700.5" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-141" value="DPP Configuration request (device name, WiFi-tech, netrole)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#3399FF;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-140">
+          <mxGeometry x="-0.1233" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-142" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700.5" y="1094.5" as="sourcePoint" />
+            <mxPoint x="177.5" y="1094.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-143" value="&lt;font color=&quot;#3399ff&quot;&gt;AP-AutoConfig Response(SupportedService=&quot;MAP R3 Controller&quot;)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="7oV9sslifIrVKHSfEK3D-142">
+          <mxGeometry x="-0.2591" y="4" relative="1" as="geometry">
+            <mxPoint x="-77" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-144" value="&lt;b&gt;What Autoconfig for ?&lt;/b&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="4.5" y="1090" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7oV9sslifIrVKHSfEK3D-145" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10099221505554298;endAngle=0.1;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="172" y="1090" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
